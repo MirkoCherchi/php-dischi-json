@@ -17,9 +17,33 @@
 
 <body>
     <div id="app">
-        <ul>
-            <li v-for="disk in discs">{{ disk.titolo }}</li>
-        </ul>
+
+        <!-- Header -->
+        <header class="text-center container-fluid p-2">
+            <h1>PHP Dischi JSON</h1>
+        </header>
+        <!-- /Header -->
+
+        <!-- Main -->
+        <main class="container-fluid p-4">
+            <div class="row p-5">
+                <div v-for="disk in discs" class="col-sm-12 col-md-6 col-lg-4 p-4">
+                    <div class="card mc-row d-flex flex-column align-items-center gap-2">
+                        <img :src="disk.img" class="" :alt="disk.titolo">
+                        <h3 class="maiusc">{{ disk.titolo }}</h3>
+                        <h5 class="">{{ disk.artista }}</h5>
+                        <p class="">{{ disk.anno }}</p>
+                    </div>
+                </div>
+
+            </div>
+        </main>
+        <!-- /Main -->
+
+        <!-- Footer -->
+        <footer>ciao</footer>
+        <!-- /Footer -->
+
     </div>
 
 

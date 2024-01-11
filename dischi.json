@@ -4,62 +4,62 @@
         "artista": "Mida",
         "descrizione": "Singolo",
         "anno": "2023",
-        "img": ""
+        "img": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/21/c8/6721c8b0-a670-0fa3-0e2e-29cb4aaf600c/197190286588.jpg/1200x1200bf-60.jpg"
     },
     {
         "titolo": "2minuti",
         "artista": "Calcutta",
         "descrizione": "Singolo proveniente dall'album 'Relax' con 11 brani",
         "anno": "2023",
-        "img": ""
+        "img": "https://i1.sndcdn.com/artworks-7j6IJuYy2b0ojaks-bCqQwg-t500x500.png"
     },
     {
         "titolo": "Bellissima",
         "artista": "Annalisa",
         "descrizione": "Singolo proveniente dall'album 'E poi siamo finiti nel vortice' con 12 brani",
         "anno": "2023",
-        "img": ""
+        "img": "https://static.qobuz.com/images/covers/xc/pl/v8j56wv3uplxc_600.jpg"
     },
     {
         "titolo": "Rockstar",
         "artista": "Sfera Ebbasta",
         "descrizione": "Singolo proveniente dall'album 'Rockstar' con 11 brani",
         "anno": "2018",
-        "img": ""
+        "img": "https://i0.wp.com/www.veneziaradiotv.it/wp-content/uploads/2019/01/sfera.jpg?fit=512%2C512&ssl=1"
     },
     {
         "titolo": "El Mismo Sol",
         "artista": "Alvaro Soler",
         "descrizione": "Singolo",
         "anno": "2015",
-        "img": ""
+        "img": "https://i.scdn.co/image/ab67616d0000b273bbb8eafab0b5a639394499ab"
     },
     {
-        "titolo": "El Mismo Sol",
-        "artista": "Alvaro Soler",
-        "descrizione": "Singolo",
-        "anno": "2015",
-        "img": ""
+        "titolo": "Nuvola",
+        "artista": "Holden",
+        "descrizione": "Singolo dell'album in uscita 'Prologo'",
+        "anno": "2024",
+        "img": "https://www.musicalnews.com/wp-content/uploads/2021/03/Holden-Prologo.jpeg"
     },
     {
         "titolo": "Deu Onda",
         "artista": "MC G15",
         "descrizione": "Singolo",
         "anno": "2016",
-        "img": ""
+        "img": "https://i.scdn.co/image/ab67616d0000b273826cb939e3e8cdd82e89e30b"
     },
     {
         "titolo": "Unica",
         "artista": "Antonello Venditti",
         "descrizione": "Singolo proveniente dall'album 'Unica' con 9 brani",
         "anno": "2011",
-        "img": ""
+        "img": "https://i.scdn.co/image/ab67616d0000b27389b37a0c378672a530da9d7e"
     },
     {
         "titolo": "I migliori anni della nostra vita",
         "artista": "Renato Zero",
         "descrizione": "Singolo proveniente dall'album 'Sulle tracce dell'imperfetto' con 8 brani",
         "anno": "1995",
-        "img": ""
+        "img": "https://i.scdn.co/image/ab67616d0000b273bb2bada45c9112e4a8b92759"
     }
 ]

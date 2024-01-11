@@ -1,0 +1,32 @@
+header {
+  background-color: #cddc39;
+  color: #212121;
+}
+
+main {
+  background-color: #f0f4c3;
+  color: #212121;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.mc-row {
+  background-color: #afb42b;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.maiusc {
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.card {
+  transition: transform 3s ease;
+}
+
+.card:hover {
+  transform: rotateY(360deg);
+}
