@@ -27,7 +27,8 @@
         <!-- Main -->
         <main class="container-fluid p-4">
             <div class="row p-5">
-                <div v-for="disk in discs" :key="disk.titolo" class="col-sm-12 col-md-6 col-lg-4 p-4">
+                <div v-for="disk in discs" :key="disk.titolo"
+                    class="col-sm-12 col-md-12 col-lg-6 col-xl-6 col-xxl-4 p-4">
                     <div class="card mc-row d-flex flex-column align-items-center gap-2"
                         @click="toggleCardRotation(disk)" :class="{ 'is-rotated': disk.isRotated }">
                         <img :src="disk.img" class="" :alt="disk.titolo">
