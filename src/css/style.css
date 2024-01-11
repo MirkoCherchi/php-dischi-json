@@ -1,3 +1,7 @@
+[v-cloak] {
+  display: none;
+}
+
 header {
   background-color: #cddc39;
   color: #212121;
