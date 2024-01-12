@@ -31,7 +31,6 @@ L'esercizio è stato sviluppato seguendo un approccio graduale:
 3. Aggiungere stile e struttura alle card.
 4. Implementare la rotazione 3D e la visualizzazione della descrizione.
 
-
 ---
 
 ## 🔗 Contatti
